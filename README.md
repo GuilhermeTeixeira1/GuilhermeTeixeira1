@@ -29,37 +29,21 @@ Além de softwares, gosto de projetar e testar hardwares, por isso sou um grande
 # Tecnologias dominadas
 
 <table>
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>C</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-            </td>
-        </tr>
-    </tbody>
+    <td width="120px" align="center">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <td width="120px" align="center">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </table>
 
 # Tecnologias em aprendizado
 
 <table>
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Tkinter</strong></span><br>
-            <td width="80px" align="center">
-            <span><strong>Flask</strong></span><br>
-            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg">
-            <td width="80px" align="center">
-            <span><strong>Django</strong></span><br>
-            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg">
-            <td width="80px" align="center">
-            <span><strong>SQLite</strong></span><br>
-            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg">
-            </td>
-        </tr>
-    </tbody>
+    <td width="120px" align="center">
+    <span><strong>Tkinter</strong></span><br>
+    <td width="120px" align="center">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <td width="120px" align="center">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+    <td width="120px" align="center">
+    <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">            
 </table>
