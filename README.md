@@ -9,7 +9,7 @@ Nesse github você vai encontrar todos os projetos que considero importante para
 
 No meu tempo livre gosto de aprender coisas novas, dentro e fora do mundo de Software, tambem participo desde os 6 anos do Grupo Escoteiro Ouro Negro em Canoas - RS, lá, aprendi a trabalhar em equipe, liderar meu time e ter resiliência. Adquiri outras habilidades durante o meu curso como: aprender a solucionar problemas, ser paciente, ter uma boa gestão de tempo e ser uma pessoa de fácil convívio.
 
-Além de softwares, gosto de projetar e testar hardwares, por isso sou um grande fã de microprocessadores e sistemas embarcados, assim, junto o melhor dos 2 mundos, o software ocm o hardware. Comecei a praticar nessa área durante o curso de eletrônica, fui desafiado constantemente pelos meus professores, tenho experiência com o ARM STM32F446RE, programando ele em Linguagem C.
+Além de softwares, gosto de projetar e testar hardwares, por isso sou um grande fã de microprocessadores e sistemas embarcados, assim, junto o melhor dos 2 mundos, o software com o hardware. Comecei a praticar nessa área durante o curso de eletrônica, fui desafiado constantemente pelos meus professores, tenho experiência com o ARM STM32F446RE, programando em Linguagem C.
 
 # Meios de contato
 
@@ -23,7 +23,7 @@ Além de softwares, gosto de projetar e testar hardwares, por isso sou um grande
     </tbody>
 </table>
 
-# My Github Stats
+# Estatísticas do meu Github
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeTeixeira1&layout=compact&theme=dark"/> <table width="320px">
 
 # Tecnologias dominadas
@@ -44,3 +44,22 @@ Além de softwares, gosto de projetar e testar hardwares, por isso sou um grande
 </table>
 
 # Tecnologias em aprendizado
+
+<table>
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Tkinter</strong></span><br>
+            <td width="80px" align="center">
+            <span><strong>Flask</strong></span><br>
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg">
+            <td width="80px" align="center">
+            <span><strong>Django</strong></span><br>
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg">
+            <td width="80px" align="center">
+            <span><strong>SQLite</strong></span><br>
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
