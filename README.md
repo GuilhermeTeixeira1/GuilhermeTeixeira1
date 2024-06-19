@@ -3,7 +3,7 @@
 ───────────────────────────────────────────────────────
 # Sobre mim
 
-Sou Guilherme, tenho 19 anos e atualmente estou no 4º ano do ensino técnico de eletrônica na Fundação Liberato Salzano - NH. Comecei na área da programação com linguagem C durante meu ensino médio, desde então, venho aprimorando minhas habilidades a cada dia, desde aprendendo novas tecnologias até me desafiando para aprimora-las. Atualmente estou aprendendo a usar alguns frameworks do Python como Tkinter, Flask e Django. Além de começar a estudar SQLite3.
+Sou Guilherme, tenho 20 anos e atualmente estou no 4º ano do ensino técnico de eletrônica na Fundação Liberato Salzano - NH. Comecei na área da programação com linguagem C durante meu ensino médio, desde então, venho aprimorando minhas habilidades a cada dia, desde aprendendo novas tecnologias até me desafiando para aprimora-las. Atualmente estou aprendendo a usar alguns frameworks do Python como Tkinter, Flask e Django. Além de começar a estudar SQLite3.
 
 Nesse github você vai encontrar todos os projetos que considero importante para definir o meu nivel de programação e poder mostrar á vocês
 
@@ -38,8 +38,6 @@ Além de softwares, gosto de projetar e testar hardwares, por isso sou um grande
 # Tecnologias em aprendizado
 
 <table>
-    <td width="120px" align="center">
-    <span><strong>Tkinter</strong></span><br>
     <td width="120px" align="center">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <td width="120px" align="center">
